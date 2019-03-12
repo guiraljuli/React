@@ -4,3 +4,5 @@ En cliquant, le javascript du react va se connecter à l'API de Facebook sur leq
 donné une clef d'accès.
 
 A noter que pour le test, on ne peut se connecter qu'une fois, et les autres fois il faut se déconnecter sur Facebook pour que cela fonctionne.
+
+Pour lancer l'application on fait "npm start".
