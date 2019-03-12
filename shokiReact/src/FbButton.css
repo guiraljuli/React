@@ -1,0 +1,14 @@
+.image-cropper {
+overflow:hidden;
+    width: 100px;
+    height: 100px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+}
+img { width: 100px;
+    height: 100px;
+    margin:auto;
+}
